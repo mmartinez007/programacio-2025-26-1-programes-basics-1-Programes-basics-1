@@ -18,7 +18,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Entra el nom");
+        Console.WriteLine("Entra el Nom");
         var nom = Console.ReadLine();
 
         Console.WriteLine("Entra el cognom");
