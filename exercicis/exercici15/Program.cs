@@ -6,6 +6,16 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Nom");
+        var nom = Console.ReadLine();
+
+        Console.WriteLine("Cognom");
+        var cognom = Console.ReadLine();
+        
+        var inicial = nom.Substring(0, 1).ToUpper() + nom.Substring(1).ToLower();
+        var inicialcognom = cognom.Substring(0, 1).ToUpper() + cognom.Substring(1).ToLower();
+
+        Console.WriteLine($"Nom : {inicial} {inicialcognom}" );
+
     }
 }

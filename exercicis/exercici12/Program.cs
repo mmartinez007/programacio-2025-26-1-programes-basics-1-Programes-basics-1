@@ -27,6 +27,20 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Primer num");
+        var num = Console.ReadLine();
+        int numInt = Convert.ToInt16(num);
+
+        Console.WriteLine("Segon num");
+        var num2 = Console.ReadLine();
+        int numInt2 = Convert.ToInt16(num2);
+
+        int suma = numInt + numInt2;
+        int resta = numInt - numInt2;
+        int multiplicació = numInt * numInt2;
+        int divisió = numInt / numInt2;
+
+        Console.WriteLine($"Suma : {suma} , Resta : {resta} , Multiplicació : {multiplicació} , Divisió : {divisió}");
+
     }
 }

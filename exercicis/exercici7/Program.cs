@@ -7,6 +7,19 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Nota 1");
+        var nota1 = Console.ReadLine();
+        int nota11 = Convert.ToInt16(nota1);
+
+        Console.WriteLine("Nota 2");
+        var nota2 = Console.ReadLine();
+        int nota22 = Convert.ToInt16(nota2);
+
+        Console.WriteLine("Nota 3");
+        var nota3 = Console.ReadLine();
+        int nota33 = Convert.ToInt16(nota3);
+
+        int suma = (nota11 + nota22 + nota33) / 3;
+        Console.WriteLine($"La mitjana és: {suma}");
     }
 }

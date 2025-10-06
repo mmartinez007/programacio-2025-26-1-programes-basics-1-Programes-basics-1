@@ -5,6 +5,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Paraula per analitzar");
+        var paraula = Console.ReadLine();
+
+        Console.WriteLine($"La primera lletra és: " + paraula[0]);
+        Console.WriteLine($"La lletra del mig és: " + paraula[paraula.Length / 2]);
+        Console.WriteLine($"La ultima lletra és: " + paraula[paraula.Length - 1]);
     }
+
 }

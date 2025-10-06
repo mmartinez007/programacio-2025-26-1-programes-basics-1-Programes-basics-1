@@ -13,3 +13,33 @@ C:\Users\Coral Planagumà\Desktop\CICLES FORMATIUS\PROJECTES\1-Programes-basics\
 C:\Users\Coral Planagumà\Desktop\CICLES FORMATIUS\PROJECTES\1-Programes-basics\exercicis\exercici1\obj\Debug\net9.0\exercici1.pdb
 C:\Users\Coral Planagumà\Desktop\CICLES FORMATIUS\PROJECTES\1-Programes-basics\exercicis\exercici1\obj\Debug\net9.0\exercici1.genruntimeconfig.cache
 C:\Users\Coral Planagumà\Desktop\CICLES FORMATIUS\PROJECTES\1-Programes-basics\exercicis\exercici1\obj\Debug\net9.0\ref\exercici1.dll
+C:\Users\marcm\Desktop\DAW A\PROGRAMACIÓ\1-Programes-basics\exercicis\exercici1\bin\Debug\net9.0\exercici1.exe
+C:\Users\marcm\Desktop\DAW A\PROGRAMACIÓ\1-Programes-basics\exercicis\exercici1\bin\Debug\net9.0\exercici1.deps.json
+C:\Users\marcm\Desktop\DAW A\PROGRAMACIÓ\1-Programes-basics\exercicis\exercici1\bin\Debug\net9.0\exercici1.runtimeconfig.json
+C:\Users\marcm\Desktop\DAW A\PROGRAMACIÓ\1-Programes-basics\exercicis\exercici1\bin\Debug\net9.0\exercici1.dll
+C:\Users\marcm\Desktop\DAW A\PROGRAMACIÓ\1-Programes-basics\exercicis\exercici1\bin\Debug\net9.0\exercici1.pdb
+C:\Users\marcm\Desktop\DAW A\PROGRAMACIÓ\1-Programes-basics\exercicis\exercici1\obj\Debug\net9.0\exercici1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcm\Desktop\DAW A\PROGRAMACIÓ\1-Programes-basics\exercicis\exercici1\obj\Debug\net9.0\exercici1.AssemblyInfoInputs.cache
+C:\Users\marcm\Desktop\DAW A\PROGRAMACIÓ\1-Programes-basics\exercicis\exercici1\obj\Debug\net9.0\exercici1.AssemblyInfo.cs
+C:\Users\marcm\Desktop\DAW A\PROGRAMACIÓ\1-Programes-basics\exercicis\exercici1\obj\Debug\net9.0\exercici1.csproj.CoreCompileInputs.cache
+C:\Users\marcm\Desktop\DAW A\PROGRAMACIÓ\1-Programes-basics\exercicis\exercici1\obj\Debug\net9.0\exercici1.sourcelink.json
+C:\Users\marcm\Desktop\DAW A\PROGRAMACIÓ\1-Programes-basics\exercicis\exercici1\obj\Debug\net9.0\exercici1.dll
+C:\Users\marcm\Desktop\DAW A\PROGRAMACIÓ\1-Programes-basics\exercicis\exercici1\obj\Debug\net9.0\refint\exercici1.dll
+C:\Users\marcm\Desktop\DAW A\PROGRAMACIÓ\1-Programes-basics\exercicis\exercici1\obj\Debug\net9.0\exercici1.pdb
+C:\Users\marcm\Desktop\DAW A\PROGRAMACIÓ\1-Programes-basics\exercicis\exercici1\obj\Debug\net9.0\exercici1.genruntimeconfig.cache
+C:\Users\marcm\Desktop\DAW A\PROGRAMACIÓ\1-Programes-basics\exercicis\exercici1\obj\Debug\net9.0\ref\exercici1.dll
+C:\Users\marcm\Desktop\DAW A\PROGRAMACIÓ\programacio-2025-26-1-programes-basics-1-Programes-basics-1\exercicis\exercici1\bin\Debug\net9.0\exercici1.exe
+C:\Users\marcm\Desktop\DAW A\PROGRAMACIÓ\programacio-2025-26-1-programes-basics-1-Programes-basics-1\exercicis\exercici1\bin\Debug\net9.0\exercici1.deps.json
+C:\Users\marcm\Desktop\DAW A\PROGRAMACIÓ\programacio-2025-26-1-programes-basics-1-Programes-basics-1\exercicis\exercici1\bin\Debug\net9.0\exercici1.runtimeconfig.json
+C:\Users\marcm\Desktop\DAW A\PROGRAMACIÓ\programacio-2025-26-1-programes-basics-1-Programes-basics-1\exercicis\exercici1\bin\Debug\net9.0\exercici1.dll
+C:\Users\marcm\Desktop\DAW A\PROGRAMACIÓ\programacio-2025-26-1-programes-basics-1-Programes-basics-1\exercicis\exercici1\bin\Debug\net9.0\exercici1.pdb
+C:\Users\marcm\Desktop\DAW A\PROGRAMACIÓ\programacio-2025-26-1-programes-basics-1-Programes-basics-1\exercicis\exercici1\obj\Debug\net9.0\exercici1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcm\Desktop\DAW A\PROGRAMACIÓ\programacio-2025-26-1-programes-basics-1-Programes-basics-1\exercicis\exercici1\obj\Debug\net9.0\exercici1.AssemblyInfoInputs.cache
+C:\Users\marcm\Desktop\DAW A\PROGRAMACIÓ\programacio-2025-26-1-programes-basics-1-Programes-basics-1\exercicis\exercici1\obj\Debug\net9.0\exercici1.AssemblyInfo.cs
+C:\Users\marcm\Desktop\DAW A\PROGRAMACIÓ\programacio-2025-26-1-programes-basics-1-Programes-basics-1\exercicis\exercici1\obj\Debug\net9.0\exercici1.csproj.CoreCompileInputs.cache
+C:\Users\marcm\Desktop\DAW A\PROGRAMACIÓ\programacio-2025-26-1-programes-basics-1-Programes-basics-1\exercicis\exercici1\obj\Debug\net9.0\exercici1.sourcelink.json
+C:\Users\marcm\Desktop\DAW A\PROGRAMACIÓ\programacio-2025-26-1-programes-basics-1-Programes-basics-1\exercicis\exercici1\obj\Debug\net9.0\exercici1.dll
+C:\Users\marcm\Desktop\DAW A\PROGRAMACIÓ\programacio-2025-26-1-programes-basics-1-Programes-basics-1\exercicis\exercici1\obj\Debug\net9.0\refint\exercici1.dll
+C:\Users\marcm\Desktop\DAW A\PROGRAMACIÓ\programacio-2025-26-1-programes-basics-1-Programes-basics-1\exercicis\exercici1\obj\Debug\net9.0\exercici1.pdb
+C:\Users\marcm\Desktop\DAW A\PROGRAMACIÓ\programacio-2025-26-1-programes-basics-1-Programes-basics-1\exercicis\exercici1\obj\Debug\net9.0\exercici1.genruntimeconfig.cache
+C:\Users\marcm\Desktop\DAW A\PROGRAMACIÓ\programacio-2025-26-1-programes-basics-1-Programes-basics-1\exercicis\exercici1\obj\Debug\net9.0\ref\exercici1.dll

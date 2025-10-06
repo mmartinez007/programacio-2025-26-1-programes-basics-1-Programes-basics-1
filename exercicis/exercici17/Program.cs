@@ -15,6 +15,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        string num = "23.45";
+        string decimals = num.Substring(2);
+
+        Console.WriteLine($"Numero lleig : {num}");
+        Console.WriteLine($"Numero meravellós : {0}{decimals}" );
     }
 }

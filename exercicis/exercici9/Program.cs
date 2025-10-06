@@ -7,6 +7,11 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Metres");
+        var metres = Console.ReadLine();
+        int metresInt = Convert.ToInt16(metres);
+
+        int peus = metresInt * 328084;
+        Console.WriteLine($"Peus : {peus}");
     }
 }

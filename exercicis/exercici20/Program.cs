@@ -12,6 +12,11 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Numero:");
+        var num = Console.ReadLine();
+        string Dig1 = num.Substring(0, 1);
+        string Dig2 = num.Substring(1, 1);
+        string Dig3 = num.Substring(2);
+        Console.WriteLine("El número invertit és: " + (Dig3) + (Dig2) + (Dig1));
     }
 }

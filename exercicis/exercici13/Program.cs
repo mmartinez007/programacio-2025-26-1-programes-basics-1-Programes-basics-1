@@ -17,6 +17,11 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Data sense formatar");
+        string data = Console.ReadLine();
+
+        string DataString = (data);
+        Console.WriteLine(DataString.Substring(0, 2) + "/" + DataString.Substring(2, 2) + "/" + DataString.Substring(4, 4));
+
     }
 }

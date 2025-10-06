@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Coral Planagumà\\.nuget\\packages\\": {}
+    "C:\\Users\\marcm\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Coral Planagumà\\Desktop\\CICLES FORMATIUS\\PROJECTES\\1-Programes-basics\\exercicis\\exercici6\\exercici6.csproj",
+      "projectUniqueName": "C:\\Users\\marcm\\Desktop\\DAW A\\PROGRAMACIÓ\\1-Programes-basics\\exercicis\\exercici6\\exercici6.csproj",
       "projectName": "exercici6",
-      "projectPath": "C:\\Users\\Coral Planagumà\\Desktop\\CICLES FORMATIUS\\PROJECTES\\1-Programes-basics\\exercicis\\exercici6\\exercici6.csproj",
-      "packagesPath": "C:\\Users\\Coral Planagumà\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Coral Planagumà\\Desktop\\CICLES FORMATIUS\\PROJECTES\\1-Programes-basics\\exercicis\\exercici6\\obj\\",
+      "projectPath": "C:\\Users\\marcm\\Desktop\\DAW A\\PROGRAMACIÓ\\1-Programes-basics\\exercicis\\exercici6\\exercici6.csproj",
+      "packagesPath": "C:\\Users\\marcm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marcm\\Desktop\\DAW A\\PROGRAMACIÓ\\1-Programes-basics\\exercicis\\exercici6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Coral Planagumà\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\marcm\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
